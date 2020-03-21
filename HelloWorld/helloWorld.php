@@ -34,3 +34,7 @@ function getMax($a) {
 
 $result = getMax($a);
 echo $result;
+
+echo 'hello world.we are one, branch 1';
+
+var_dump([]);
